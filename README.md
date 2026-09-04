@@ -24,7 +24,17 @@
 - 🔭 **Just nu utvecklar jag:** Konsolapplikationer i .NET 8 med fokus på strikt typning, kontrollflöde och CLI-verktyg.
 - 🌱 **Fokuserar på:** Fördjupning i C#-syntax, kontrollstrukturer (`if/else`, `switch`, `for`/`while`), och atomära Git-commits.
 - 🤖 **AI & Utveckling:** Använder AI som ett kritiskt bollplank för felsökning, kodgranskning och pedagogiska förklaringar.
+  
+---
 
+### 🎨 Utanför koden
+När jag inte sitter framför terminalen och utvecklar C#-projekt hittar du mig ofta:
+* 🏑 På innebandyplanen för en match gubbinnebandy
+* 🏃‍♂️ Ute i löpspåret för att rensa huvudet
+* 🛠️ Med ett verktyg i handen för lite hobbyrenovering där hemma
+* 🎮 Kollas på livestreams med bräd-, tv- och dataspel för inspiration och underhållning
+* ☕ På en ständig jakt efter den perfekta kaffebönan
+  
 ---
 
 ### 🛠️ Teknisk verktygslåda
