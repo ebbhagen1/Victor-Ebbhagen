@@ -3,7 +3,7 @@
   <img src="https://github.com/ditt-användarnamn.png" width="160" height="160" style="border-radius: 50%;" alt="Profilbild">
 </p>
 
-<h1 align="center">Hej, jag är [Victor Ebbhagen, 37år] 👋</h1>
+<h1 align="center">Hej, jag är [Victor Ebbhagen] 👋</h1>
 
 <p align="center">
   Driven <b>C#- och .NET-utvecklare</b> under utbildning, med fokus på ren kod, problemlösning och moderna CLI- och Git-arbetsflöden.
